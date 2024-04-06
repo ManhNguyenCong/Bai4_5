@@ -1,0 +1,2 @@
+- Feature notification jobs everyday don't active in SDK_INT version >= S
+- Feature sort job don't active
