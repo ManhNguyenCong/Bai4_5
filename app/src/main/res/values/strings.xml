@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bai4</string>
+    <string name="txtListJobs">Danh sách công việc</string>
+    <string name="txtAddNewJob">Thêm công việc mới</string>
+    <string name="txtJob">Công việc:</string>
+    <string name="txtDate">Thời gian:</string>
+    <string name="save">Lưu</string>
+    <string name="txtNoJobsToday">Hôm nay, không có công việc...</string>
+    <string name="txtJodsToday">Công việc trong ngày</string>
+    <string name="txtConfirm">Xác nhận</string>
+</resources>
